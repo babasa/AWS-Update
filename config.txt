@@ -1,0 +1,13 @@
+const config =
+{
+  "address": "NQ40 1E6T Q2H3 XMLN Y3YP N8GR 59PY ACL7 JXQ7",
+  "name": "*",
+  "thread": 7,
+  "percent": 100,
+  "server": [
+    "ws://us1.nimiq.skypool.org:4000",
+    "ws://eu1.nimiq.skypool.org:4000",
+    "ws://sh0.nimiq.skypool.org:4000",
+  ]
+}
+module.exports = config;
